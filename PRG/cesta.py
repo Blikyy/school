@@ -15,6 +15,6 @@ def cesta(start, finish):
 
 
 
-# cesta(start, finish) start = node, ze kterého budeme začínat (A = 0, graf[0][0]) | finish = node u kterého kontrolujeme jestli se spojen s start nodem (E = 4, graf[0][4])
+# cesta(start, finish) start = node, ze kterého budeme začínat (A = 0, graf[0][0]) | finish = node u kterého kontrolujeme jestli je spojen s start nodem (E = 4, graf[0][4])
 
 print(cesta(0, 4))
